@@ -1,0 +1,27 @@
+body{
+    background-color: #d8fce2;
+}
+hr{
+    border-style: dotted none none none;
+    width: 5%;
+    border-width: 5px;
+    border-color: gray;
+    position: relative;
+    right: 40%;
+}
+span hr{
+    border-style: inset;
+    width: 100%;
+    border-width: 1px;
+    right: 0%;
+}
+#name:hover{
+    color: #20a179;
+}
+h3, h1{
+    color: #20a179;
+}
+
+#name{
+    color:black;
+}
